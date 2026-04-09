@@ -1,6 +1,6 @@
-# 📊 Data Analyst Assignment – PlatinumRx
+# Data Analyst Assignment – PlatinumRx
 
-## 👤 Name:
+##  Name:
 
 Narasimha
 
