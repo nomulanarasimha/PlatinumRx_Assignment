@@ -6,7 +6,7 @@ Narasimha
 
 ---
 
-# 📁 Project Overview
+#Project Overview
 
 This project demonstrates skills in:
 
@@ -16,9 +16,9 @@ This project demonstrates skills in:
 
 ---
 
-# 🗄️ PHASE 1: SQL – HOTEL DATABASE
+#  PHASE 1: SQL – HOTEL DATABASE
 
-## 🔹 Create Database
+## Create Database
 
 ```sql
 CREATE DATABASE hotel_db;
@@ -27,7 +27,7 @@ USE hotel_db;
 
 ---
 
-## 🔹 Create Tables
+##  Create Tables
 
 ```sql
 CREATE TABLE users (
@@ -65,7 +65,7 @@ CREATE TABLE booking_commercials (
 
 ---
 
-## 🔹 Insert Data
+##  Insert Data
 
 ```sql
 INSERT INTO users VALUES
@@ -91,7 +91,7 @@ INSERT INTO booking_commercials VALUES
 
 ---
 
-## 🔹 Queries
+##  Queries
 
 ### Q1: Last Booked Room
 
@@ -159,9 +159,9 @@ LIMIT 1;
 
 ---
 
-# 🏥 PHASE 1: CLINIC DATABASE
+#  PHASE 1: CLINIC DATABASE
 
-## 🔹 Create Database
+## Create Database
 
 ```sql
 CREATE DATABASE clinic_db;
@@ -170,7 +170,7 @@ USE clinic_db;
 
 ---
 
-## 🔹 Create Tables & Insert Data
+## Create Tables & Insert Data
 
 ```sql
 CREATE TABLE clinic_sales (
@@ -197,7 +197,7 @@ INSERT INTO expenses VALUES
 
 ---
 
-## 🔹 Queries
+##  Queries
 
 ### Revenue by Channel
 
@@ -221,7 +221,7 @@ FROM clinic_sales cs, expenses e;
 
 ---
 
-# 📊 PHASE 2: EXCEL
+#  PHASE 2: EXCEL
 
 * Used VLOOKUP to fetch data
 * Compared dates using INT()
@@ -230,7 +230,7 @@ FROM clinic_sales cs, expenses e;
 
 ---
 
-# 🐍 PHASE 3: PYTHON
+#  PHASE 3: PYTHON
 
 ## Time Converter
 
@@ -252,20 +252,4 @@ for ch in s:
         result += ch
 
 print(result)
-```
 
----
-
-# 📌 Conclusion
-
-This assignment demonstrates SQL, Excel, and Python skills required for data analysis.
-
----
-
-# 🔗 Submission Links
-
-GitHub: https://github.com/yourusername/PlatinumRx_Assignment
-Spreadsheet: https://docs.google.com/spreadsheets/d/yourlink
-Screen Recording: https://drive.google.com/yourvideo
-
----
